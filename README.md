@@ -43,7 +43,7 @@ The completed Car Preferences Dashboard showing KPI cards (Total Revenue, Total 
 ### Average Order Value Measure
 DAX formula in the Measure Table calculating Average Order Value as Total Revenue divided by Total Sales Quantity, formatted as currency.
 
-![Average Order Value Measure](AOCA-SAM-2.png)
+![Average Order Value Measure](AOCA-SAM-3.png)
 
 ### Calendar (Date) Table
 A custom date table showing Date, Month Name, and Day Name columns — used to support time-based analysis and drill-downs across the report.
@@ -73,7 +73,7 @@ DAX formula calculating % Sales Quantity by dividing Total Sales Quantity by the
 ### % Growth Rate Measure
 DAX formula calculating % Growth Rate as the difference between Current Year Revenue and Previous Year Revenue, divided by Previous Year Revenue.
 
-![Percent Growth Rate Measure](AOCA-SAM-3.png)
+![Percent Growth Rate Measure](AOCA-SAM-2.png)
 
 
 ## 💡 Key Insights & Business Question Analysis
