@@ -40,6 +40,16 @@ The completed Car Preferences Dashboard showing KPI cards (Total Revenue, Total 
 
 ## 🛠️ Build Process (Data Model, Measures & Cleaning)
 
+### % Sales Quantity Measure
+DAX formula calculating % Sales Quantity by dividing Total Sales Quantity by the ALLSELECTED total, formatted as a percentage — used to show relative share rather than raw counts.
+
+![Percent Sales Quantity Measure](AOCA-SAM-9.png)
+
+### % Growth Rate Measure
+DAX formula calculating % Growth Rate as the difference between Current Year Revenue and Previous Year Revenue, divided by Previous Year Revenue.
+
+![Percent Growth Rate Measure](AOCA-SAM-2.png)
+
 ### Average Order Value Measure
 DAX formula in the Measure Table calculating Average Order Value as Total Revenue divided by Total Sales Quantity, formatted as currency.
 
@@ -65,15 +75,6 @@ List of all DAX measures created for the report, including % Growth Rate, % Sale
 
 ![Measure Table Overview](AOCA-SAM-8.png)
 
-### % Sales Quantity Measure
-DAX formula calculating % Sales Quantity by dividing Total Sales Quantity by the ALLSELECTED total, formatted as a percentage — used to show relative share rather than raw counts.
-
-![Percent Sales Quantity Measure](AOCA-SAM-9.png)
-
-### % Growth Rate Measure
-DAX formula calculating % Growth Rate as the difference between Current Year Revenue and Previous Year Revenue, divided by Previous Year Revenue.
-
-![Percent Growth Rate Measure](AOCA-SAM-2.png)
 
 
 ## 💡 Key Insights & Business Question Analysis
